@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "966589387691",
+    "project_id": "emisurvey-be5b8",
+    "storage_bucket": "emisurvey-be5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966589387691:android:66206347f8ea11ec4878ee",
+        "android_client_info": {
+          "package_name": "com.rita.EMIapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966589387691-cekc8jljrdm6865rul740au12ttfj41r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rita.EMIapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "966589387691-2shnk481u49gr0q0utbl1617hh6re1fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBve_J2aUqTDTbs6ljqHoeYHkBDqaiRHF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966589387691-2shnk481u49gr0q0utbl1617hh6re1fs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966589387691-p833jhno7ca343nhi5u60gq0mld8c0c1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rita.EMIapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
